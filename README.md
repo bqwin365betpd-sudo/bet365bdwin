@@ -1,60 +1,26 @@
-<h1 align="center">👋 Welcome to My Profile</h1>
+# BDBet Win Casino Lobby Concept
 
-<p align="center">
-  <b>💻 Developer | 🎯 iGaming Specialist | 🚀 Tech Enthusiast</b>
-</p>
+A responsive, static mobile casino lobby prototype inspired by the supplied multi-theme dashboard reference. The experience is intentionally front-end only and focuses on visual presentation, theme exploration, and a polished mobile-first lobby preview.
 
----
+## Features
 
-## 👨‍💻 About Me
+- 11 selectable visual themes with Chinese-style theme labels matching the reference board.
+- Large live mobile preview that updates when a theme tile is selected.
+- Casino lobby sections for jackpots, provider shortcuts, popular games, quick actions, and bottom navigation.
+- Dependency-free static build and local preview scripts powered by Node.js.
 
-- 🔭 Currently working on **iGaming & Betting Systems**
-- 🌱 Learning **Advanced Backend & Security**
-- 💰 Interested in **Online Earning & Automation**
-- ⚡ Goal: Build powerful **Casino & Betting Platforms**
+## Getting Started
 
----
+```bash
+npm run dev
+```
 
-## 🛠️ Skills
+Open `http://localhost:5173` in a browser.
 
-- 💻 Languages: HTML, CSS, JavaScript, PHP
-- 🗄️ Database: MySQL
-- ⚙️ Tools: Git, Termux, VS Code
-- 🔐 Security & APK Analysis
+## Build
 
----
+```bash
+npm run build
+```
 
-## 🚀 Projects
-
-- 🎰 Casino Script Development
-- ⚽ Sports Betting Platform
-- 📱 APK Reverse Engineering
-- 🤖 Automation Tools
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bqwin365betpd-sudo&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqwin365betpd-sudo&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- 📧 Email: your@email.com
-- 🌍 Website: yourwebsite.com
-- 📱 Telegram: @yourusername
-
----
-
-<p align="center">⚡ Always Learning & Growing ⚡</p># bet365bdwin
+The build command copies the static app into `dist/`.
